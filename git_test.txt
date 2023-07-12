@@ -1,2 +1,2 @@
-This is a test for git!
-nice to meet you!
+Git is a distributed version control system.
+Git is free software.
